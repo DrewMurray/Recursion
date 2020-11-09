@@ -4,7 +4,7 @@ public class Cake {
 	private int bites = 10;
 	
 	public Cake() {
-		//FIXME
+		//nothing to implement
 	}
 	
 	public void takeABite() {
